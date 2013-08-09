@@ -4,7 +4,7 @@
 	id = "no.heek.weightlog"
 	version = "1.0.0">
   <name>WeightLog</name>
-  <description>Weight log jquery implementasjon</description>
+  <description>Weight log jquery implementation</description>
   <author href="http://www.heek.no" email="heek@heek.no">Havard Eek</author>
   
 
